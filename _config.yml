@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jinu Lee"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in UIUC"
+  bio              : "PhD Student and NLP researcher in UIUC"
   location         : "Champaign, IL"
-  employer         : "University of Illinois Urbana-Champaign"
+  employer         : "University of Illinois"
   uri              : # URL
   email            : "jinulee.v@gmail.com" 
 
@@ -80,7 +80,9 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Papers'   
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -212,13 +214,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
