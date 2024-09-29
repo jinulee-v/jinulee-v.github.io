@@ -3,7 +3,7 @@ title: "SymBa: Symbolic Backward Chaining for Structured Natural Langauge Reason
 collection: publications
 category: preprints
 permalink: /publication/2024-symba
-date: 2023-12-06
+date: 2024-02-20
 venue: 'arXiv'
 paperurl: "https://arxiv.org/abs/2402.12806"
 ---
