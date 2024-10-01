@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Jinu Lee. I am currently a first-year Ph.D. student in University of Illinois Urbana-Champaign. I completed my Bachelor's degree in Seoul National University where I was fortunate to work with Professor [Seung-one Hwang](https://seungwonh.github.io/).
+Hi, my name is Jinu Lee. I am currently a first-year Ph.D. student in University of Illinois Urbana-Champaign. I completed my Bachelor's degree in Seoul National University where I was fortunate to work with Professor [Seung-won Hwang](https://seungwonh.github.io/).
 
 
 Current research interests
