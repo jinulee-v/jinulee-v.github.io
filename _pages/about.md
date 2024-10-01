@@ -16,4 +16,4 @@ I am interested in understanding and improving natural language reasoning via sy
 
 - Integrating NLP with symbolic systems (Logic, Compilers, Knowledge base, …)
 - Explainable / Interpretable NLP training and inference
-- Automatic evaluation based on external status
+- Automatic evaluation of internal states and outputs in analytical domains
