@@ -12,8 +12,8 @@ Hi, my name is Jinu Lee. I am currently a first-year Ph.D. student in University
 
 Current research interests
 =====
-I am interested in understanding and improving natural language reasoning via symbolic systems, external knowledge, and reinforcement learning.
+I am interested in understanding *natural language reasoning* to develop systems that can match or surpass the performance and explainability of human experts.
 
 - Integrating NLP with symbolic systems (Logic, Compilers, Knowledge base, …)
-- Explainable / Interpretable NLP training and inference
-- Automatic evaluation of internal states and outputs in analytical domains
+- Explainable / interpretable NLP training and inference
+- Automatic evaluation of intermediate states and outputs in analytical domains, leading to automatic learning
