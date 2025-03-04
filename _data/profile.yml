@@ -52,7 +52,7 @@ experience:
   position: Research Scientist Intern
   date: May. 2025 - Aug. 2025
 - name: LBOX
-  logo: /assets/images/badges/lbox.png
+  logo: /assets/images/badges/lbox.jpg
   position: Research Engineer
   date: Jul. 2023 - Jun. 2024
 - name: NCSOFT
@@ -60,18 +60,14 @@ experience:
   position: Researcher
   date: Jun. 2020 - Nov. 2020
 
-# awards:
-# - name: Award Name 2
-#   date: 2024
-# - name: Award Name 1 
-#   date: 2021
-# - name: A quick brown fox jumps over the lazy dog and runs away award
-#   date: 2021
-
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Korean Foundation for Advanced Studies PhD Scholarship
+  date: 2024 - Present
+- name: Presidential Science Scholarship for Undergraduates
+  date: 2018 - 2024
+
+service:
+- name: ACL Rolling Review Reviewer
+  date: 2024 - Present
+- name: COLM Reviewer
+  date: 2025 - Present
