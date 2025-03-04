@@ -3,8 +3,7 @@ secondary_name: ""
 navbar_name: "Jinu Lee"
 
 positions:
-- name: Position 1 with logo
-- name: Position 2 without logo
+- name: PhD student in Computer Science, University of Illinois Urbana-Champaign
 
 
 email: "jinulee.v@gmail.com"
@@ -38,25 +37,26 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: University of Illinois Urbana-Champaign
+  logo: /assets/images/badges/uiuc.png
   position: >- 
-    Siebel School of Computing and Data Science <br/>
-    Ph.D. Student
+    Ph.D. Student in Computer Science
   date: Aug. 2024 - Present
 - name: Seoul National University
+  logo: /assets/images/badges/snu.png
   position: B.S. in Computer Science
   date: Mar. 2018 - Aug. 2024
 
 experience:
 - name: Microsoft Research
-  # logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/microsoft.png
   position: Research Scientist Intern
   date: May. 2025 - Aug. 2025
 - name: LBOX
-  # logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/lbox.png
   position: Research Engineer
   date: Jul. 2023 - Jun. 2024
 - name: NCSOFT
-  # logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ncsoft.png
   position: Researcher
   date: Jun. 2020 - Nov. 2020
 
@@ -67,3 +67,11 @@ experience:
 #   date: 2021
 # - name: A quick brown fox jumps over the lazy dog and runs away award
 #   date: 2021
+
+awards:
+- name: Award Name 2
+  date: 2024
+- name: Award Name 1 
+  date: 2021
+- name: A quick brown fox jumps over the lazy dog and runs away award
+  date: 2021
