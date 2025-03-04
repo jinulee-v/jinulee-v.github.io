@@ -23,12 +23,15 @@ short_bio: >-
     Hi! I am Jinu Lee, a PhD student in UIUC currently advised by <a href="https://juliahmr.cs.illinois.edu/">Julia Hockenmaier</a>.
   </p>
   <p>
-    My research focuses on <b>Semantics of reasoning</b>, aiming to understand and improve natural language reasoning via neural large language models and symbolic methods. Specifically, I am interested in:
+    My research focuses on <b>Semantics of reasoning</b>, aiming to understand and improve natural language reasoning via neural large language models and symbolic methods. Specific topics include:
     <ul>
       <li>Neuro-symbolic reasoning (logic, math, code)</li>
       <li>Evaluation of reasoning traces</li>
       <li>Improving reasoning of large language models</li>
     </ul>
+  </p>
+  <p>
+    You can find my CV <a href="/assets/pdf/JinuLee_cv.pdf">here</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
