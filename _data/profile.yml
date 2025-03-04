@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Jinu Lee"
 
 positions:
-- name: PhD student in Computer Science, University of Illinois Urbana-Champaign
+- name: Ph.D. student in Computer Science, University of Illinois Urbana-Champaign
 
 
 email: "jinulee.v@gmail.com"
@@ -20,10 +20,10 @@ twitter: jinulee_v  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Jinu Lee is a Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign.
+    Hi! I am Jinu Lee, a PhD student in UIUC currently advised by <a href="https://juliahmr.cs.illinois.edu/">Julia Hockenmaier</a>.
   </p>
   <p>
-    His research focuses on <b>Semantics of reasoning</b>, aiming to understand and improve natural language reasoning via neural large language models and symbolic methods. Specific research focuses are:
+    My research focuses on <b>Semantics of reasoning</b>, aiming to understand and improve natural language reasoning via neural large language models and symbolic methods. Specifically, I am interested in:
     <ul>
       <li>Neuro-symbolic reasoning (logic, math, code)</li>
       <li>Evaluation of reasoning traces</li>
