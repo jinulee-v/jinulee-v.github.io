@@ -10,7 +10,7 @@ pub_date:       "2025"
 
 # abstract: >-
 #   Step-by-step reasoning is widely used to enhance the reasoning ability of large language models (LLMs) in complex problems. Evaluating the quality of reasoning traces is crucial for understanding and improving LLM reasoning. However, the evaluation criteria remain highly unstandardized, leading to fragmented efforts in developing metrics and meta-evaluation benchmarks. To address this gap, this survey provides a comprehensive overview of step-by-step reasoning evaluation, proposing a taxonomy of evaluation criteria with four top-level categories (groundedness, validity, coherence, and utility). We then categorize metrics based on their implementations, survey which metrics are used for assessing each criterion, and explore whether evaluator models can transfer across different criteria. Finally, we identify key directions for future research.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/2025-reasoning-eval-survey.jpg
 authors:
   - Jinu Lee
   - Julia Hockenmaier
