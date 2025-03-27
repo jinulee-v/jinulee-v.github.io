@@ -1,6 +1,6 @@
 ---
-title:          "Entailment-Preserving First-order Logic Representations in Natural Language Entailment"
-date:           2025-02-24 00:01:00 +0800
+title:          "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
+date:           2025-03-26 00:01:00 +0800
 selected:       true
 # pub:            "ACL"
 # pub_pre:        "Submitted to"
@@ -10,15 +10,19 @@ pub_date:       "2025"
 
 # abstract: >-
 #   First-order logic (FOL) can represent the logical entailment semantics of natural language (NL) sentences, but determining natural language entailment using FOL remains a challenge. To address this, we propose the Entailment-Preserving FOL representations (EPF) task and introduce reference-free evaluation metrics for EPF, the Entailment-Preserving Rate (EPR) family. In EPF, one should generate FOL representations from multi-premise natural language entailment data (e.g. EntailmentBank) so that the automatic prover's result preserves the entailment labels. Experiments show that existing methods for NL-to-FOL translation struggle in EPF. To this extent, we propose a training method specialized for the task, iterative learning-to-rank, which directly optimizes the model's EPR score through a novel scoring function and a learning-to-rank objective. Our method achieves a 1.8-2.7% improvement in EPR and a 17.4-20.6% increase in EPR@16 compared to diverse baselines in three datasets. Further analyses reveal that iterative learning-to-rank effectively suppresses the arbitrariness of FOL representation by reducing the diversity of predicate signatures, and maintains strong performance across diverse inference types and out-of-domain data.
-cover:          /assets/images/covers/2025-epfp.png
+cover:          /assets/images/covers/2025-scaling-eval.png
 authors:
-  - Jinu Lee
-  - Qi Liu
-  - Runzhi Ma
-  - Vincent Han
-  - Ziqi Wang
-  - Heng Ji
+  - Seungone Kim
+  - Ian Wu*
+  - Jinu Lee*
+  - Xiang Yue
+  - Seongyun Lee
+  - Mingyeong Moon
+  - Kiril Gashteovski
+  - Carolin Lawrence
   - Julia Hockenmaier
+  - Graham Neubig
+  - Sean Welleck
 links:
   Paper: https://arxiv.org/abs/2502.16757
 ---
