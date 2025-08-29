@@ -1,6 +1,6 @@
 ---
 title:          "Evaluating Step-by-step Reasoning Traces: A Survey"
-date:           2025-02-18 00:01:00 +0800
+date:           2025-11-04 00:01:00 +0800
 selected:       true
 pub:            "EMNLP"
 # pub_pre:        "Submitted to"

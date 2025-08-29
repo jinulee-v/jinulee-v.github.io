@@ -1,6 +1,6 @@
 ---
 title:          "LegalSearchLM: Rethinking Legal Case Retrieval as Legal Elements Generation"
-date:           2025-05-28 00:01:00 +0800
+date:           2025-11-04 00:01:00 +0800
 selected:       false
 pub:            "EMNLP"
 # pub_pre:        "Submitted to"
