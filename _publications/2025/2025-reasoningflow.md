@@ -5,7 +5,7 @@ selected:       true
 pub:            "ArgMining Workshop"
 # pub_pre:        "Submitted to"
 # pub_post:       'Preprint.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Main</span>'
+pub_last:       '(non-archival)'
 pub_date:       "2025"
 
 # abstract: >-

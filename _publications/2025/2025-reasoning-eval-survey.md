@@ -2,10 +2,10 @@
 title:          "Evaluating Step-by-step Reasoning Traces: A Survey"
 date:           2025-02-18 00:01:00 +0800
 selected:       true
-# pub:            "NAACL"
+pub:            "EMNLP"
 # pub_pre:        "Submitted to"
-pub_post:       'Preprint.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_post:       'Preprint.'
+pub_last:       'Findings'
 pub_date:       "2025"
 
 # abstract: >-

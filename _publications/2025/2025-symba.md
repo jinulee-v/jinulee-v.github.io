@@ -5,7 +5,7 @@ selected:       true
 pub:            "NAACL"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Main</span>'
+pub_last:       'Main'
 pub_date:       "2025"
 
 # abstract: >-

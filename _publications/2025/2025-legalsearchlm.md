@@ -2,10 +2,10 @@
 title:          "LegalSearchLM: Rethinking Legal Case Retrieval as Legal Elements Generation"
 date:           2025-05-28 00:01:00 +0800
 selected:       false
-# pub:            "ArgMining Workshop"
+pub:            "EMNLP"
 # pub_pre:        "Submitted to"
-pub_post:       'Preprint.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Main</span>'
+# pub_post:       'Preprint.'
+pub_last:       'Main'
 pub_date:       "2025"
 
 # abstract: >-
