@@ -13,7 +13,7 @@ pub_date:       "2025"
 cover:          /assets/images/covers/2025-symba.png
 authors:
   - Jinu Lee
-  - Weonseok Hwang
+  - Wonseok Hwang
 links:
   Paper: https://arxiv.org/abs/2402.12806
   Code: https://github.com/lbox-kr/symba
