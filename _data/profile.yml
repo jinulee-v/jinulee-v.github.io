@@ -20,7 +20,7 @@ twitter: jinulee_v  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi! I am Jinu Lee, a Ph.D. student in Computer Science at UIUC. I am currently advised by <a href="https://juliahmr.cs.illinois.edu/">Julia Hockenmaier</a>.
+    Hi! I am Jinu Lee, a Ph.D. student in Computer Science at UIUC working on AI/NLP. I am fortunate to be advised by <a href="https://hmr-lab.github.io/">Julia Hockenmaier</a>.
   </p>
   <p>
     My research focuses on <b>semantics of reasoning</b>, aiming to understand and improve natural language reasoning via neural large language models and symbolic methods. Specific topics include:
@@ -70,7 +70,7 @@ awards:
   date: 2018 - 2024
 
 service:
-- name: ACL Rolling Review Reviewer
+- name: ARR (ACL Rolling Review) Reviewer
   date: 2024 - Present
-- name: COLM Reviewer
+- name: COLM (Conferences on Language Modeling) Reviewer
   date: 2025 - Present
