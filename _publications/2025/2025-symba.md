@@ -1,7 +1,7 @@
 ---
 title:          "SymBa: Symbolic Backward Chaining for Structured Natural Langauge Reasoning"
 date:           2025-04-29 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "NAACL"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

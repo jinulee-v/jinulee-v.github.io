@@ -1,7 +1,7 @@
 ---
 title:          "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
 date:           2025-03-26 00:01:00 +0800
-selected:       true
+selected:       false
 # pub:            "ACL"
 # pub_pre:        "Submitted to"
 pub_post:       'Preprint.'
