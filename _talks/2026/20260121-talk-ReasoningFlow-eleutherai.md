@@ -1,6 +1,6 @@
 ---
 title:          "ReasoningFlow: Semantic Structures of Complex Reasoning Traces"
-date:           2026-01-21 00:01:00 +0800
+date:           2026-01-21
 venue:          "EleutherAI"
 links:
   Slides: /assets/pdf/talks/20260121-talk-ReasoningFlow-eleutherai.pdf
