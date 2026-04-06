@@ -1,12 +1,12 @@
 ---
 title:          "Evaluating Legal Reasoning Traces with Legal Issue Tree Rubrics"
-date:           2025-12-01 00:01:00 +0800
+date:           2026-07-02 00:01:00 +0800
 selected:       true
-# pub:            "ACL"
+pub:            "ACL"
 # pub_pre:        "Submitted to"
-pub_post:       'Preprint.'
-# pub_last:       'Main'
-# pub_date:       "2025"
+# pub_post:       'Preprint.'
+pub_last:       'Main Conference'
+# pub_date:       "2026"
 
 cover:          /assets/images/covers/2025-legit.png
 authors:

@@ -5,7 +5,7 @@ selected:       false
 pub:            "EMNLP"
 # pub_pre:        "Submitted to"
 # pub_post:       'Preprint.'
-pub_last:       'Main'
+pub_last:       'Main Conference'
 pub_date:       "2025"
 
 # abstract: >-
