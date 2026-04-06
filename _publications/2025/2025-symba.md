@@ -5,7 +5,7 @@ selected:       false
 pub:            "NAACL"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       'Main'
+pub_last:       'Main Conference'
 pub_date:       "2025"
 
 # abstract: >-
