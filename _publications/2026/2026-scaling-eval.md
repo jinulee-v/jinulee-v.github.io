@@ -4,8 +4,8 @@ date:           2026-07-02 00:01:00 +0800
 selected:       false
 pub:            "ACL"
 # pub_pre:        "Submitted to"
-pub_post:       'Findings'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_post:       'Findings'
+pub_last:       'Findings'
 pub_date:       "2026"
 
 # abstract: >-
