@@ -1,5 +1,5 @@
 ---
-title:          "Scaling Evaluation-time Compute with Reasoning Models as Process Evaluators"
+title:          "Reasoning Consensus: Structural Ensembling of LLM Reasoning via Weighted DAG Aggregation"
 date:           2026-07-30 00:01:00 +0800
 selected:       false
 # pub:            "ACL"
