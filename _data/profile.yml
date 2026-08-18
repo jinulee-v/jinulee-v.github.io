@@ -20,7 +20,7 @@ twitter: jinulee_v  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi! I am Jinu Lee, a Ph.D. student in Computer Science at UIUC working on AI/NLP. I am fortunate to be advised by <a href="https://hmr-lab.github.io/">Julia Hockenmaier</a>.
+    Hi! I am Jinu Lee, a Ph.D. student in Computer Science at UIUC working on NLP/AI. I am fortunate to be advised by <a href="https://hmr-lab.github.io/">Julia Hockenmaier</a>.
   </p>
   <p>
     My research focuses on <b>semantics of reasoning</b>, aiming to understand and improve natural language reasoning via neural large language models and symbolic methods. Specific topics include:
@@ -35,8 +35,6 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-# portrait_caption: >-
-#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: University of Illinois Urbana-Champaign
@@ -53,11 +51,7 @@ experience:
 - name: Microsoft Research
   logo: /assets/images/badges/microsoft.png
   position: Research Scientist Intern
-  date: May. 2026 - Aug. 2026
-- name: Microsoft Research
-  logo: /assets/images/badges/microsoft.png
-  position: Research Scientist Intern
-  date: May. 2025 - Aug. 2025
+  date: May. 2025 - Aug. 2025; May. 2026 - Aug. 2026
 - name: LBOX
   logo: /assets/images/badges/lbox.png
   position: Research Engineer
@@ -68,8 +62,10 @@ experience:
   date: Jun. 2020 - Nov. 2020
 
 awards:
-- name: Korean Foundation for Advanced Studies PhD Scholarship
-  date: 2024 - Present
+- name: Amazon-Illinois Center on AI for Interactive Conversational Experiences (AICE) PhD Fellowship
+  date: 2026 - 2027
+- name: Korean Foundation for Advanced Studies (KFAS) Overseas PhD Scholarship
+  date: 2024 - 2029
 - name: Presidential Science Scholarship for Undergraduates
   date: 2018 - 2024
 
@@ -78,3 +74,7 @@ service:
   date: 2024 - Present
 - name: COLM (Conferences on Language Modeling) Reviewer
   date: 2025 - Present
+- name: Midwest Speech & Language Day (MSLD) Student Organizer
+  date: 2026 - Present
+- name: NeurIPS E&D Track Reviewer
+  date: 2026 - Present
