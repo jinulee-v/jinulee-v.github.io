@@ -1,11 +1,11 @@
 ---
 title:          "ReasoningFlow: Discourse Structures for Understanding LLM Reasoning Traces"
-date:           2026-06-03 00:01:00 +0800
+date:           2026-10-25 00:01:00 +0800
 selected:       true
-pub:            "ArgMining Workshop"
+pub:            "EMNLP"
 # pub_pre:        "Submitted to"
 # pub_post:       'Preprint.'
-pub_last:       '(non-archival)'
+pub_last:       'Main Conference'
 pub_date:       "2026"
 
 cover:          /assets/images/covers/2025-reasoningflow.png
