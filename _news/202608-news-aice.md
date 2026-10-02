@@ -1,4 +1,4 @@
 ---
-title: "I received the AICE (Amazon-Illinois Center on AI for Interactive Conversational Experiences) PhD Fellowship!"
-date: 2026-08-15 00:00:00 -0600
+title: "I am visiting EMNLP 2025 @ Budapest (1 Main, 1 Findings)!"
+date: 2026-10-25 00:00:00 -0600
 ---

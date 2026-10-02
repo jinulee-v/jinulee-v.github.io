@@ -5,7 +5,7 @@ selected:       true
 pub:            "ACL"
 # pub_pre:        "Submitted to"
 # pub_post:       'Preprint.'
-pub_last:       'Main Conference'
+pub_last:       'Main Conference (Oral)'
 pub_date:       "2026"
 
 cover:          /assets/images/covers/2025-legit.png
