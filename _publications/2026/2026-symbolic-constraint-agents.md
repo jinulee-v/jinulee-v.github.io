@@ -1,8 +1,8 @@
 ---
 title:          "Symbolic Constraint Agents: Mining Tool-Call Constraints from Documentation and Traces"
 date:           2026-12-11 00:01:00 +0800
-selected:       true
-pub:            "Who Verifies the Agents? Workshop @ NeurIPS 2026"
+selected:       false
+pub:            "Who Verifies the Agents? Workshop @ NeurIPS"
 # pub_pre:        "Submitted to"
 # pub_post:       'Preprint.'
 # pub_last:       'Main Conference'
