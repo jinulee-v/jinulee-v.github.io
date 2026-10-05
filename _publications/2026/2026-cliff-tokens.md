@@ -1,5 +1,5 @@
 ---
-title:          "Evaluating Legal Reasoning Traces with Legal Issue Tree Rubrics"
+title:          "Cliff Tokens: Analyzing Failure Trigger Tokens in LLM Mathematical Reasoning"
 date:           2026-09-28 00:01:00 +0800
 selected:       true
 # pub:            "ACL"

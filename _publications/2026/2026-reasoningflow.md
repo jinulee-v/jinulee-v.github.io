@@ -18,5 +18,5 @@ authors:
   - Julia Hockenmaier
 links:
   Paper: https://arxiv.org/abs/2606.05402
-  Homepage: https://bit.ly/reasoningflow
+  Homepage: https://github.com/jinulee-v/reasoningflow
 ---
