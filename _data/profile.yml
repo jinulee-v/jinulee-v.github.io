@@ -23,11 +23,11 @@ short_bio: >-
     Hi! I am Jinu Lee, a Ph.D. student in Computer Science at UIUC working on NLP/AI. I am fortunate to be advised by <a href="https://hmr-lab.github.io/">Julia Hockenmaier</a>.
   </p>
   <p>
-    My research focuses on <b>semantics of reasoning</b>, aiming to understand and improve natural language reasoning via neural large language models and symbolic methods. Specific topics include:
+    My research focuses on <b>understanding reasoning traces of large language models</b>. Specific topics include:
     <ul>
-      <li>Semantic representations for reasoning (logic, math, code) & Neuro-symbolic reasoning </li>
-      <li>Fine-grained evaluation of reasoning traces</li>
-      <li>Improving reasoning capabilities of large language models</li>
+      <li>Understanding the text-level and mechanistic-level structures of LLM reasoning</li>
+      <li>Evaluating and improving the reasoning capability of LLMs</li>
+      <li>Trustworthy reasoning in high-stakes domains (e.g., law, tax, medicine, ...)</li>
     </ul>
   </p>
   <p>
