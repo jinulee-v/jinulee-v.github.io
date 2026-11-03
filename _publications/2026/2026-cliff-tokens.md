@@ -1,7 +1,7 @@
 ---
 title:          "Cliff Tokens: Analyzing Failure Trigger Tokens in LLM Mathematical Reasoning"
 date:           2026-09-28 00:01:00 +0800
-selected:       true
+selected:       false
 # pub:            "ACL"
 # pub_pre:        "Submitted to"
 pub_post:       'Preprint.'

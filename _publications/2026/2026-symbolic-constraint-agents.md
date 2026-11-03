@@ -13,7 +13,7 @@ authors:
   - Jinu Lee
   - Shraddha Barke
 links:
-  # Paper: https://arxiv.org/abs/2606.25524
+  Paper: https://arxiv.org/abs/2610.25552v1
   # Data: https://huggingface.co/datasets/Beaverdam/cliff-token-data
   # Code: https://github.com/beaver-22/Cliff-token
 ---
